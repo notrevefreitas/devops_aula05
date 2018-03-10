@@ -3,3 +3,4 @@ python:
 -"3.4"
 script:
 -cd src; python testes.py  
+https://travis-ci.org/<seu_username>/devops-aula05
